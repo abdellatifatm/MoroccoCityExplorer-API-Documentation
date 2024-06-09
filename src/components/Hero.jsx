@@ -33,10 +33,12 @@ import { Link } from "react-router-dom";
             </Typography>
             <div className="mt-8 grid w-full place-items-start md:justify-center">
               <div className="mb-2 flex w-full flex-col gap-4 md:flex-row">
+                <a target="_blank" href="https://github.com/abdellatifatm/MoroccoCityExplorer-API-Documentation">
                 <Button className="bg-green-500 w-full px-4 md:w-[12rem] text-sm " style={{ textTransform: 'none' }}>
                   Github
                   
                 </Button>
+                </a>
                 <Link to='/documentation'>
                 <Button  className=" bg-gray-900 text-sm flex  w-full items-center gap-2" style={{ textTransform: 'none' }}>
                   Read Documentation{" "}

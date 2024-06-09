@@ -206,7 +206,7 @@ export function DocumentationContent() {
                 If you have suggestions, feature requests, or additional data
                 that can improve the API, don't hesitate to contribute! Fork the
                 repository on{" "}
-                <a href="#" className="underline font-bold">
+                <a target="_blank" href="https://github.com/abdellatifatm/MoroccoCityExplorer-API" className="underline font-bold">
                   GitHub
                 </a>
                 , make your changes, and submit a pull request. Your
