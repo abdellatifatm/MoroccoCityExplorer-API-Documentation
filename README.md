@@ -5,17 +5,13 @@ Welcome to the Morocco City Explorer API Documentation! This repository contains
 **Features:**
 
 - Interactive documentation with code examples for accessing cities, popular places, and restaurants data.
-- Clear instructions for integrating the API into your React.js projects.
+- Clear instructions for integrating the API into your projects.
 - Error handling guidelines and best practices.
 - Contribution guidelines for users interested in improving the API or documentation.
 
 **Usage:**
 
 Explore the documentation to learn how to integrate the Morocco City Explorer API into your React.js applications and access valuable information about cities, attractions, and dining options in Morocco.
-
-**Contributing:**
-
-Sure, here's the adjusted "Contributing" section:
 
 **Contributing:**
 
